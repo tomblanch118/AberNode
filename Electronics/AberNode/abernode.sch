@@ -14572,8 +14572,10 @@ Source: http://onsemi.com .. MBR0520LT1-D.pdf</description>
 <variantdefs>
 </variantdefs>
 <classes>
-<class number="0" name="default" width="0" drill="0">
+<class number="0" name="default" width="0.254" drill="0">
 <clearance class="0" value="0.2"/>
+</class>
+<class number="1" name="PW" width="0.4064" drill="0">
 </class>
 </classes>
 <parts>
